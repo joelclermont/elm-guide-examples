@@ -1,0 +1,14 @@
+http://guide.elm-lang.org/architecture/user_input/buttons.html
+http://elm-lang.org/examples/buttons
+ - add Reset to counter example
+ 
+http://guide.elm-lang.org/architecture/user_input/forms.html
+http://elm-lang.org/examples/form
+ - add some validation logic
+
+http://guide.elm-lang.org/architecture/effects/random.html
+ - image of die, pair of dice
+ - ADVANCED: svg rendering of dice, animation of dice
+ 
+http://guide.elm-lang.org/architecture/effects/http.html
+ 
